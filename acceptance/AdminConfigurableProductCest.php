@@ -8,7 +8,7 @@ class AdminConfigurableProductCest
         $I->click("//input[@id='username']"); //Click to Username field
         $I->fillField("//input[@id='username']",'admin'); //Add Username
         $I->click("//input[@id='login']"); //click to Password field
-        $I->fillField("//input[@id='login']",'tn6W_{SQ'); //Add Password
+        $I->fillField("//input[@id='login']",'test'); //Add Password
         $I->click("//button[@class='action-login action-primary']"); //Click to "Login" button
         $I->waitForElementVisible("//h1[@class='page-title']"); // Check Dashboard title
         $I->clickWithLeftButton("//*[@id=\"menu-magento-catalog-catalog\"]/a"); //click to Catlog
