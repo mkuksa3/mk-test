@@ -1,0 +1,6 @@
+tests\acceptance\AdminConfigurableProductCest.php:tryToTest
+tests\acceptance\AdminSimpleProductCest.php:tryToTest
+tests\acceptance\AddToCartQTYCest.php:tryToTest
+tests\acceptance\BlundCest.php:tryToTest
+tests\acceptance\FirstCest.php:tryToTest
+tests\acceptance\NewUserCest.php:tryToTest

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcf1e168-17f7-4b2e-98d4-a0e388962019" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>C:\autotest_mk\composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../../symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/../../../symfony/console" />
+      <path value="$PROJECT_DIR$/../../../symfony/css-selector" />
+      <path value="$PROJECT_DIR$/../../../symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/../../../symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/../../../symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/../../../symfony/yaml" />
+      <path value="$PROJECT_DIR$/../../../symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/../../../symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/../../../symfony/string" />
+      <path value="$PROJECT_DIR$/../../../symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/../../../symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/../../../theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/../../../doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/../../../ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/../../../sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/../../../sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/../../../sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/../../../sebastian/exporter" />
+      <path value="$PROJECT_DIR$/../../../sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/../../../sebastian/environment" />
+      <path value="$PROJECT_DIR$/../../../sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/../../../sebastian/comparator" />
+      <path value="$PROJECT_DIR$/../../../sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/../../../sebastian/complexity" />
+      <path value="$PROJECT_DIR$/../../../sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/../../../sebastian/diff" />
+      <path value="$PROJECT_DIR$/../../../sebastian/type" />
+      <path value="$PROJECT_DIR$/../../../sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/../../../sebastian/version" />
+      <path value="$PROJECT_DIR$/../../../sebastian/global-state" />
+      <path value="$PROJECT_DIR$/../../../webmozart/assert" />
+      <path value="$PROJECT_DIR$/../../../guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/../../../codeception/stub" />
+      <path value="$PROJECT_DIR$/../../../codeception/phpunit-wrapper" />
+      <path value="$PROJECT_DIR$/../../../codeception/codeception" />
+      <path value="$PROJECT_DIR$/../../../codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/../../../phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/../../../phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/../../../phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/../../../composer" />
+      <path value="$PROJECT_DIR$/../../../psr/http-message" />
+      <path value="$PROJECT_DIR$/../../../psr/container" />
+      <path value="$PROJECT_DIR$/../../../psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/../../../behat/gherkin" />
+      <path value="$PROJECT_DIR$/../../../php-webdriver/webdriver" />
+      <path value="$PROJECT_DIR$/../../../nikic/php-parser" />
+      <path value="$PROJECT_DIR$/../../../codeception/module-webdriver" />
+      <path value="$PROJECT_DIR$/../../../myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/../../../codeception/module-phpbrowser" />
+      <path value="$PROJECT_DIR$/../../../phar-io/version" />
+      <path value="$PROJECT_DIR$/../../../codeception/lib-innerbrowser" />
+      <path value="$PROJECT_DIR$/../../../phar-io/manifest" />
+      <path value="$PROJECT_DIR$/../../../codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/../../../phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/../../../symfony/process" />
+      <path value="$PROJECT_DIR$/../../../phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/../../../symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/../../../phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/../../../symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/../../../phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/../../../phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/../../../psr/http-client" />
+      <path value="$PROJECT_DIR$/../../../phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/../../../phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/../../../guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/../../../symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/../../../guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/../../../symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/../../../symfony/finder" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1gsDnHDqopkYyH3zimRVNeWeRjc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../codeception.yml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Codeception.AddToCartQTYCest.php">
+    <configuration name="AddToCartQTYCest.php" type="CodeceptionConfigurationType" factoryName="Codeception" temporary="true">
+      <PhpTestRunnerSettings file="$PROJECT_DIR$/AddToCartQTYCest.php" scope="File" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BlundCest.php" type="CodeceptionConfigurationType" factoryName="Codeception" temporary="true">
+      <PhpTestRunnerSettings file="$PROJECT_DIR$/BlundCest.php" scope="File" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NewUserCest.php" type="CodeceptionConfigurationType" factoryName="Codeception" temporary="true">
+      <PhpTestRunnerSettings file="$PROJECT_DIR$/NewUserCest.php" scope="File" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Codeception.AddToCartQTYCest.php" />
+        <item itemvalue="Codeception.BlundCest.php" />
+        <item itemvalue="Codeception.NewUserCest.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcf1e168-17f7-4b2e-98d4-a0e388962019" name="Default Changelist" comment="" />
+      <created>1598894572144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598894572144</updated>
+      <workItem from="1598894573204" duration="1247000" />
+      <workItem from="1598896124945" duration="556000" />
+      <workItem from="1598897060354" duration="37000" />
+      <workItem from="1598897335577" duration="177000" />
+      <workItem from="1598897649382" duration="24000" />
+      <workItem from="1599056951931" duration="770000" />
+      <workItem from="1599386684631" duration="7966000" />
+      <workItem from="1599465298025" duration="123000" />
+      <workItem from="1603118789814" duration="255000" />
+      <workItem from="1603191886862" duration="682000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="67" key="#CLI_Interpreters" timestamp="1599057350443">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="348" y="67" key="#CLI_Interpreters/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599057350443" />
+    <state x="348" y="67" key="#CLI_Interpreters/0.0.1536.824/7.-1080.1920.1040@0.0.1536.824" timestamp="1598895711767" />
+    <state x="526" y="236" key="#Notifications" timestamp="1598894597051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="236" key="#Notifications/0.0.1536.824/7.-1080.1920.1040@0.0.1536.824" timestamp="1598894597051" />
+    <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1598895655393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824/7.-1080.1920.1040@0.0.1536.824" timestamp="1598895655393" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603193046267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1603193046267" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599465420624" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/7.-1080.1920.1040@0.0.1536.824" timestamp="1599394681270" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603193046267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1603193046267" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599465420624" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/7.-1080.1920.1040@0.0.1536.824" timestamp="1599394681270" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603193046267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1603193046267" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599465420624" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/7.-1080.1920.1040@0.0.1536.824" timestamp="1599394681270" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603193046267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1603193046267" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599465420624" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/7.-1080.1920.1040@0.0.1536.824" timestamp="1599394681270" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1599057719839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599057719839" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/7.-1080.1920.1040@0.0.1536.824" timestamp="1598895712622" />
+  </component>
+</project>
